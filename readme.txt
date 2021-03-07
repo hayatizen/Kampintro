@@ -1,1 +1,1 @@
-publıc statıc voıd
+publıc voıd
