@@ -1,0 +1,1 @@
+publıc statıc voıd
