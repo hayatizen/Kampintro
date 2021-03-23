@@ -11,7 +11,7 @@ namespace Metotlar
         //syntax yazım şekilleri
         //pyhton da yazılan def burada public void olarak yazıldı. ortak kod tanımlama
         //aşağıda Ekle fonksiyonu tanımlandı.
-        // buradaki gibi normal bir parantez var ise burada bir metot çalışır (jave ve c# için geçerli).
+        // buradaki gibi normal bir parantez var ise burada bir metot çalışır (java ve c# için geçerli).
         public void Ekle(Urun urun) 
         {
             Console.WriteLine("Sepete eklendi : " + urun.Adi);
